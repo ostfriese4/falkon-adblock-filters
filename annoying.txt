@@ -1,6 +1,7 @@
 [Adblock Plus 2.0]
 ! der-postillon.com
 der-postillon.com##.widget.HTML#HTML19
+der-postillon.com##.widget.HTML#HTML5
 
 ! zeit.de
 zeit.de##.iqdcontainer
