@@ -6,3 +6,5 @@ der-postillon.com##.widget.HTML#HTML5
 ! zeit.de
 zeit.de##.iqdcontainer
 zeit.de##.newsletter-signup
+
+studyflix.de##.videojs-player
