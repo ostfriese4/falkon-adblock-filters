@@ -11,5 +11,5 @@ zeit.de##.newsletter-signup
 studyflix.de##.videojs-player
 
 ! hna.de
-hna.de##.id-TBeebSlot--content
+hna.de##.id-TBeepSlot--content
 hna.de##.id-StoryElement-embed
