@@ -9,6 +9,7 @@ zeit.de##.newsletter-signup
 
 ! studyflix.de
 studyflix.de##.videojs-player
+studyflix.de##.reminder-modal
 
 ! hna.de
 hna.de##.id-TBeepSlot--content
