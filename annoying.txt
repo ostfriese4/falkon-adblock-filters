@@ -12,4 +12,5 @@ studyflix.de##.videojs-player
 
 ! hna.de
 hna.de##.id-TBeepSlot--content
+hna.de##.id-TBeepSlot--billboard
 hna.de##.id-StoryElement-embed
