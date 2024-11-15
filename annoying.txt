@@ -15,3 +15,8 @@ studyflix.de##.reminder-modal
 hna.de##.id-TBeepSlot--content
 hna.de##.id-TBeepSlot--billboard
 hna.de##.id-StoryElement-embed
+
+! heise.de
+heise.de##.article-sidebar
+heise.de##.a-u-inline
+heise.de##.abo-link
