@@ -25,6 +25,3 @@ heise.de##.article-layout__header-container
 
 ! chip.de
 chip.de##.cmp-banner
-chip.de##.Ad
-chip.de##aside#R1C2
-chip.de##aside#R1C3
