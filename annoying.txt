@@ -22,3 +22,7 @@ heise.de##.a-u-inline
 heise.de##.abo-link
 heise.de##.theme-heiseplus
 heise.de##.article-layout__header-container
+
+! chip.de
+chip.de##.cmp-banner
+chip.de##.Ad
