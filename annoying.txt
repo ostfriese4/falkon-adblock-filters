@@ -20,4 +20,5 @@ hna.de##.id-StoryElement-embed
 heise.de##.article-sidebar
 heise.de##.a-u-inline
 heise.de##.abo-link
+heise.de##.theme-heiseplus
 heise.de##.article-layout__header-container
