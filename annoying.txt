@@ -25,3 +25,6 @@ heise.de##.article-layout__header-container
 
 ! chip.de
 chip.de##.cmp-banner
+
+! worldrobotolympiad.de
+worldrobotolympiad.de##.sidebar
