@@ -31,3 +31,9 @@ chip.de##.cmp-banner
 
 ! worldrobotolympiad.de
 worldrobotolympiad.de##.sidebar
+
+! t-online.de
+t-online.de##[data-testid="PushNotification.ModalView"]
+t-online.de##[data-testid="StreamLayout.Companion"]
+t-online.de##[data-testid="StageLayout.StreamItem"]
+t-online.de##[data-testid="ArticleBottomDivMarker"]
