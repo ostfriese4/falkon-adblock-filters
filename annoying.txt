@@ -8,6 +8,7 @@ zeit.de##.iqdcontainer
 zeit.de##.newsletter-signup
 zeit.de##.paywall-footer
 zeit.de##.topicbox
+zeit.de##.portraitbox
 
 ! studyflix.de
 studyflix.de##.videojs-player
