@@ -36,3 +36,6 @@ worldrobotolympiad.de##.sidebar
 t-online.de##[data-testid="PushNotification.ModalView"]
 t-online.de##[data-testid="StreamLayout.Companion"]
 t-online.de##[data-testid="ArticleBottomDivMarker"]
+
+! pixabay.com
+pixabay.com##.container--t3k85
