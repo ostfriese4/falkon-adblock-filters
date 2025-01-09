@@ -39,3 +39,6 @@ t-online.de##[data-testid="ArticleBottomDivMarker"]
 
 ! pixabay.com
 pixabay.com##.container--t3k85
+
+! makesmart.net
+makesmart.net##.brave_popup__step__inner
