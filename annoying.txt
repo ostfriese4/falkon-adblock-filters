@@ -46,3 +46,4 @@ makesmart.net##.brave_popup__step__inner
 ! Sign in with Google alerts
 geeksforgeeks.org###credential_picker_container
 stackoverflow.com###signup-modal-container
+reddit.com###container
