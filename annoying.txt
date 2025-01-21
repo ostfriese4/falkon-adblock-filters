@@ -10,6 +10,7 @@ zeit.de##.paywall-footer
 zeit.de##.topicbox
 zeit.de##.portraitbox
 zeit.de##.zoner-injection-DUV
+zeit.de##.zoner-injection-DS
 
 ! studyflix.de
 studyflix.de##.videojs-player
