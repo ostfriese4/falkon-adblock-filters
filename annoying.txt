@@ -9,6 +9,7 @@ zeit.de##.newsletter-signup
 zeit.de##.paywall-footer
 zeit.de##.topicbox
 zeit.de##.portraitbox
+zeit.de##.zoner-injection-DUV
 
 ! studyflix.de
 studyflix.de##.videojs-player
